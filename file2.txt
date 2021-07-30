@@ -1,2 +1,2 @@
 Hello World.
-Exxperiment 1 {file-2} Changing and adding new lines.
+Exxperiment 1 {file-2}
